@@ -31,14 +31,4 @@ Below is the folder structure.
 
 How the project functions is basically described in the below diagram.
 
-
-
-
-
-
-
-
-
-
-
-
+![image01](./images/project_architecture.jpg)
